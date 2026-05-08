@@ -1,4 +1,4 @@
-# Linear-Regression-model-with-generated-housing-data-with-multiple-features
+# Linear-Regression-project-with-generated-housing-data-with-multiple-features
 This project demonstrates a Linear Regression machine learning project built using Python in a Jupyter Notebook.
 
 Synthetic data was generated using Numpy to simulate real world housing price factors. This model predicts house prices based on the Size of the house, number of bedrooms and number of bathrooms.
