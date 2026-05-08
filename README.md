@@ -54,7 +54,16 @@ price = 200 * size + 50000 * bedrooms + 10000 * bathrooms + np.random.normal(0, 
 7. Model evaluation using Mean squared error(mse), r2_score and rmse.
 
 # How to run the project
-Clone the repository:
+1. Clone the repository:
+```bash
+git clone
+https://github.com/OTIENDE-Analyst/Linear-Regression-model-with-generated-housing-data-with-multiple-features
+```
+
+2. Open Jupyter Notebook:
+```bash
+jupyter notebook
+```
 
 
 
