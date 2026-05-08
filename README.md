@@ -46,14 +46,12 @@ price = 200 * size + 50000 * bedrooms + 10000 * bathrooms + np.random.normal(0, 
 
 ## Project workflow
 1. Generation of the data with Numpy.
-2. Process the data to ensure the data is clean and also visualized it.
-3. Separate the features and split the data into training data(80%) and test data(20%)
-4. Choose an algorithm/model to use. Used LinearRegression.
-5. Train the model
-6. Make predictions on the test data
-7. Evaluate the data.
-
-## Project File
+2. Processing the data to ensure the data is clean and also visualized it.
+3. Separate the features(X) and labels (y). Then split the data into training data(80%) and test data(20%).
+4. Choose an algorithm/model to use. Applied LinearRegression using Scikit-learn..
+5. Train the model.
+6. Make predictions on the test data.
+7. Model evaluation using Mean squared error(mse), r2_score and rmse.
 
 # How to run the project
 Clone the repository:
